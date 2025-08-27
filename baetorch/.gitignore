@@ -1,0 +1,7 @@
+plots
+results
+.idea/
+data*/
+*.p
+__pycache__
+depracated
